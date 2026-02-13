@@ -1,0 +1,18 @@
+
+{
+  "name": "DisclosureHub 官方披露下载",
+  "short_name": "DisclosureHub",
+  "description": "A-Share, HK-Share, and US-Share Official Disclosure Downloader",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2886/2886018.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "DisclosureHub",
+  "description": "A professional tool for searching and downloading official stock disclosure documents (A-shares, HK-shares, and US-shares) directly from official sources like SEC, HKEX, and CNINFO.",
+  "requestFramePermissions": []
+}
